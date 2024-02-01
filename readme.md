@@ -5,7 +5,7 @@ Certificator is a app that generates bulk certificates. (currenty under constric
 ### To Do
 
 - [x] Initial docs.
-- [ ] add initial django files
+- [x] add initial django files
 - [ ] implement backend
 - [ ] implement frontend
 - [ ] Better docs.
