@@ -1,1 +1,3 @@
 venv/
+main/backend/__pycache__/
+main/certificator/__pycache__/
