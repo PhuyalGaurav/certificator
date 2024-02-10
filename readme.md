@@ -2,7 +2,7 @@
 
 # Certificator
 
-Certificator is a app that generates bulk certificates. (currenty under constriction, better documentation is on the todo ! )
+Certificator is a app that generates bulk certificates. (currenty under constriction, better documentation is on the todo ! ). Use the [cmdline version](https://github.com/PhuyalGaurav/certificator-cmd) for now
 
 ### To Do
 
