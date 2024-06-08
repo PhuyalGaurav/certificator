@@ -1,26 +1,35 @@
-<img src='.github/under.gif' height=200>
-
 # Certificator
 
-Certificator is a app that generates bulk certificates. (currenty under constriction, better documentation is on the todo ! ). Use the [cmdline version](https://github.com/PhuyalGaurav/certificator-cmd) for now
+Certificator is a web application built with Streamlit that allows you to generate bulk certificates. It's perfect for events, courses, competitions, and more.
 
-### To Do
+## Features
 
-- [x] Initial docs.
-- [x] add initial django files
-- [ ] implement backend
-- [ ] implement frontend
-- [ ] Better docs.
+- Generate multiple certificates at once
+- Customize the name and coordinates on the certificate
+- Download all certificates as a ZIP file
 
-## FAQ's
+## How to Use
 
-- ### When will it be done?
+Use the [webversion](https://certificator.streamlit.app/)
 
-  Probably never.
+#### OR
 
-- ### Will i be able to use it?
-  Maybe. Fill out [this form](https://forms.gle/TBa1augXjZwkpNwd9) so you can become a beta tester.
+1. Clone this repository.
+2. Install the required Python packages: `pip install -r requirements.txt`
+3. Run the app: `streamlit run main.py`
+4. Upload your certificate template and a list of names.
+5. Adjust the coordinates to position the name correctly on the certificate.
+6. Click "Generate" to create the certificates.
+7. Download the ZIP file containing all certificates.
 
-## Want to collaborate?
+## Note
 
-I am looking for a frontend guy. someone who just knows html, css, js & has worked with jinja templating should be fine. if you are such a guy then [contact me](https://discord.gg/ApNaDGtC) (discord).
+The certificates are temporarily stored in a "certificates" folder, which is automatically deleted after 60 seconds. The ZIP file is also deleted after 60 seconds.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request.
+
+## License
+
+This project is licensed under the terms of the MIT license.
