@@ -1,6 +1,6 @@
 # Certificator
 
-Certificator is a web application built with Streamlit that allows you to generate bulk certificates. It's perfect for events, courses, competitions, and more.
+Certificator is a web application built with Streamlit that allows you to generate bulk certificates. It's perfect for events, courses, competitions, and more. There is also a commandline version [here](https://github.com/PhuyalGaurav/certificator-cmd).
 
 ## Features
 
